@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "allowJs": true,
+    "checkJs": false,
+    "types": ["cypress", "node"],
+    "typeRoots": [
+      "node_modules/@types",
+      "node_modules/cypress/types"
+    ]
+  },
+  "include": [
+    "cypress/**/*.js",
+    "cypress/**/*.ts"
+  ]
+}

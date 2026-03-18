@@ -1,0 +1,19 @@
+[33mcommit 0fdca78f686193f101cf6179c6b2ce8dc65d3a43[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mrugesh666 <mrugeshbhatia666@gmail.com>
+Date:   Tue Feb 17 21:58:36 2026 +0530
+
+    Configure Cypress cloud script
+
+[33mcommit 3d85420b18d186868fd46f7ae7acda20162324c4[m
+Author: Mrugesh666 <mrugeshbhatia666@gmail.com>
+Date:   Tue Feb 17 21:47:48 2026 +0530
+
+    *.\yml
+
+[33mcommit 852e7ce0f526ed049e6c89ca04f368c4bc90af34[m
+Author: Mrugesh666 <123059366+Mrugesh666@users.noreply.github.com>
+Date:   Tue Feb 17 21:02:13 2026 +0530
+
+    Create main.yml
+    
+    Demo_Hello world

@@ -16,7 +16,7 @@ module.exports = defineConfig({
   //  specPattern: "**/*.feature",
     watchForFileChanges: false,
     defaultCommandTimeout: 900000,
-    specPattern: 'cypress/e2e/Features/**/*.feature',
+    //specPattern: 'cypress/e2e/Features/**/*.feature',
     async setupNodeEvents(on, config) {
       // implement node event listeners here
       on('task', {downloadFile})
